@@ -1,0 +1,13 @@
+variable resource_group_name {}
+variable resource_group_location {}
+variable virtual_network_name {}
+variable virtual_network_address_space {}
+variable subnet_name {}
+variable subnet_address {}
+variable sql_server_name {}
+variable administrator_login {}
+variable administrator_login_password {}
+variable environment {}
+variable sql_firewall_rule_name {}
+variable start_ip_address {}
+variable end_ip_address {}

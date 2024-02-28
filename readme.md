@@ -1,0 +1,1 @@
+A terraform code to deploy an AKS cluster running on two nodes that should  be deployed into a new Azure Virtual Network.
